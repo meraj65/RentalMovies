@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RentalMovies/static/css/main.d86d6a64.chunk.css",
+    "main.js": "/RentalMovies/static/js/main.6e560f2b.chunk.js",
+    "main.js.map": "/RentalMovies/static/js/main.6e560f2b.chunk.js.map",
+    "runtime-main.js": "/RentalMovies/static/js/runtime-main.6609bc51.js",
+    "runtime-main.js.map": "/RentalMovies/static/js/runtime-main.6609bc51.js.map",
+    "static/css/2.832215f8.chunk.css": "/RentalMovies/static/css/2.832215f8.chunk.css",
+    "static/js/2.68ba96bf.chunk.js": "/RentalMovies/static/js/2.68ba96bf.chunk.js",
+    "static/js/2.68ba96bf.chunk.js.map": "/RentalMovies/static/js/2.68ba96bf.chunk.js.map",
+    "static/js/3.83e4e1a5.chunk.js": "/RentalMovies/static/js/3.83e4e1a5.chunk.js",
+    "static/js/3.83e4e1a5.chunk.js.map": "/RentalMovies/static/js/3.83e4e1a5.chunk.js.map",
+    "index.html": "/RentalMovies/index.html",
+    "static/css/2.832215f8.chunk.css.map": "/RentalMovies/static/css/2.832215f8.chunk.css.map",
+    "static/css/main.d86d6a64.chunk.css.map": "/RentalMovies/static/css/main.d86d6a64.chunk.css.map",
+    "static/js/2.68ba96bf.chunk.js.LICENSE.txt": "/RentalMovies/static/js/2.68ba96bf.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/RentalMovies/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6609bc51.js",
+    "static/css/2.832215f8.chunk.css",
+    "static/js/2.68ba96bf.chunk.js",
+    "static/css/main.d86d6a64.chunk.css",
+    "static/js/main.6e560f2b.chunk.js"
+  ]
+}
