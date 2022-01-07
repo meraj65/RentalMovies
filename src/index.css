@@ -1,0 +1,32 @@
+/* * {
+  background-color: #070303;
+} */
+/* 
+p {
+  text-align: center;
+  font: bold 200% Consolas, Monaco, monospace;
+  border-right: 0.1em solid;
+  width: 26ch;
+  margin: 12em;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 2s steps(26, end),
+    cursor-blink 0.3s step-end infinite alternate;
+  background-color: rgb(199, 29, 29);
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+}
+
+@keyframes cursor-blink {
+  50% {
+    border-color: transparent;
+  }
+}
+
+td, .table-dark thead th {
+  border-color: #95caff;
+} */
